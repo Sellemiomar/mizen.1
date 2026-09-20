@@ -1,0 +1,6 @@
+{
+  "name": "Mizen",
+  "description": "Plateforme de découverte et de matching de financements en Tunisie",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
